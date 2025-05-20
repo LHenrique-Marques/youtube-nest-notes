@@ -4,7 +4,7 @@ interface UserSchema{
     email : String;
     password : String;
     name : String;
-    createdAt?: Date;
+    createdAt: Date;
 }
 
 
